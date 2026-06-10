@@ -1,4 +1,4 @@
-# Future Interns · Prompt Engineering Task 2                                                     
+# Future_PE_02                                                  
 **UGC Ad Content Pack — Skincare Brand (D2C)**
 
 ---
